@@ -11,4 +11,5 @@ sudo dnf install -y \
   fd-find \
   gh \
   pip \
-  tealdeer
+  tealdeer \
+  topgrade

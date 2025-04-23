@@ -1,0 +1,7 @@
+[Warn  - 12:05:05 AM] 22:05:05.824 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 12:05:06 AM] 22:05:05.946 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/egirlcatnip/Repos/dotfiles"...
+[Info  - 12:05:06 AM] 22:05:06.019 INFO BackgroundAnalysis: Glob resolved with 4 files after 0.073 seconds
+[Info  - 12:05:06 AM] 22:05:06.035 INFO BackgroundAnalysis: Completed after 0.089 seconds.
+[Warn  - 12:05:07 AM] 22:05:06.454 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
+[Warn  - 12:08:46 AM] 22:08:46.540 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 12:09:09 AM] 22:09:09.871 WARNING ⛔️ Shfmt: disabling formatting as no executable was found at path 'shfmt'

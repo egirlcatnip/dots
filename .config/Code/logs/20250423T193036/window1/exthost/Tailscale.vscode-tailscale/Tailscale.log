@@ -1,0 +1,16 @@
+2025-04-23 19:30:38.989 [info] [tsrelay] url: http://127.0.0.1:40687
+2025-04-23 19:30:38.989 [info] websocket is open
+2025-04-23 19:30:38.989 [info] [tsrelay] initial ports are set
+2025-04-23 19:30:38.989 [info] [serve-status] Funnel is on
+2025-04-23 19:30:38.989 [info] [serve-status] HTTPS is on
+2025-04-23 19:31:03.262 [info] shutting down tsrelay
+2025-04-23 19:31:03.276 [warning] [tsrelay] child process exited with code null
+2025-04-23 19:31:03.278 [info] websocket is closed
+2025-04-23 19:31:06.418 [info] [tsrelay] url: http://127.0.0.1:45045
+2025-04-23 19:31:06.418 [info] websocket is open
+2025-04-23 19:31:06.435 [info] [tsrelay] initial ports are set
+2025-04-23 19:31:06.436 [info] [serve-status] Funnel is on
+2025-04-23 19:31:06.436 [info] [serve-status] HTTPS is on
+2025-04-23 19:31:33.147 [info] terminal opened
+2025-04-23 19:31:33.817 [info] pid is 10987
+2025-04-23 19:31:33.817 [info] pid sent

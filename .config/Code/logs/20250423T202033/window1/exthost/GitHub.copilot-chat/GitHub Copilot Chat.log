@@ -1,0 +1,85 @@
+2025-04-23 20:20:37.145 [info] Using the Electron fetcher.
+2025-04-23 20:20:37.145 [info] Initializing Git extension service.
+2025-04-23 20:20:37.145 [info] Successfully activated the vscode.git extension.
+2025-04-23 20:20:37.145 [info] Enablement state of the vscode.git extension: true.
+2025-04-23 20:20:37.145 [info] Successfully registered Git commit message provider.
+2025-04-23 20:20:37.800 [warning] GitHub login failed
+2025-04-23 20:20:37.801 [error] Error: GitHubLoginFailed
+    at lT._authShowWarnings (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:55501)
+    at lT.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:54029)
+    at U5.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:3590)
+    at yB.waitForChatEnabled (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:441:17603)
+    at yB.run (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:441:17487)
+    at nk.askToUpgradeAuthPermissions (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:441:16858): Failed to get copilot token
+2025-04-23 20:20:37.801 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2025-04-23 20:20:37.801 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-23 20:20:37.801 [error] Error: GitHubLoginFailed
+    at lT._authShowWarnings (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:55501)
+    at lT.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:54029)
+    at U5.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:3590)
+    at Jk._getAuthSession (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:3082)
+    at Object.o [as task] (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:738)
+    at kp._processQueue (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:474:3192971)
+2025-04-23 20:20:37.802 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-23 20:20:37.802 [error] Error: GitHubLoginFailed
+    at lT._authShowWarnings (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:55501)
+    at lT.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:54029)
+    at U5.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:3590)
+    at Jk._getAuthSession (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:3082)
+    at t (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:2545)
+    at Jk._registerEmbeddings (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:3044)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at $b.waitForActivationBlockers (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:2191)
+    at /home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:2334:5536
+    at ioo (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:2334:5349)
+    at l0._activate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16238)
+    at l0._waitForDepsThenActivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16180)
+    at l0._initialize (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:15543)
+2025-04-23 20:20:37.802 [info] activationBlocker from 'languageModelAccess' took for 855ms
+2025-04-23 20:20:37.805 [warning] GitHub login failed
+2025-04-23 20:20:37.806 [info] copilot token chat_enabled: undefined, sku: 
+2025-04-23 20:20:37.812 [warning] GitHub login failed
+2025-04-23 20:20:37.813 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2025-04-23 20:20:37.813 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-23 20:20:37.813 [error] Error: GitHubLoginFailed
+    at lT._authShowWarnings (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:55501)
+    at lT.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:54029)
+    at U5.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:3590)
+    at Jk._getAuthSession (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:3082)
+    at Object.o [as task] (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:738)
+    at kp._processQueue (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:474:3192971)
+2025-04-23 20:20:37.813 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-23 20:20:37.813 [error] Error: GitHubLoginFailed
+    at lT._authShowWarnings (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:55501)
+    at lT.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:54029)
+    at U5.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:3590)
+    at Jk._getAuthSession (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:3082)
+    at t (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:2545)
+2025-04-23 20:35:37.825 [warning] GitHub login failed
+2025-04-23 20:35:37.825 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-23 20:35:37.825 [error] Error: GitHubLoginFailed
+    at lT._authShowWarnings (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:55501)
+    at lT.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:54029)
+    at U5.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:3590)
+    at Jk._getAuthSession (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:3082)
+    at Object.o [as task] (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:738)
+    at kp._processQueue (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:474:3192971)
+2025-04-23 20:50:37.834 [warning] GitHub login failed
+2025-04-23 20:50:37.834 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-23 20:50:37.834 [error] Error: GitHubLoginFailed
+    at lT._authShowWarnings (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:55501)
+    at lT.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:54029)
+    at U5.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:3590)
+    at Jk._getAuthSession (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:3082)
+    at Object.o [as task] (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:738)
+    at kp._processQueue (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:474:3192971)
+2025-04-23 21:05:37.843 [warning] GitHub login failed
+2025-04-23 21:05:37.843 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-23 21:05:37.843 [error] Error: GitHubLoginFailed
+    at lT._authShowWarnings (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:55501)
+    at lT.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:54029)
+    at U5.getCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:3590)
+    at Jk._getAuthSession (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:3082)
+    at Object.o [as task] (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:479:738)
+    at kp._processQueue (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:474:3192971)

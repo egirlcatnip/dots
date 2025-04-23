@@ -1,0 +1,484 @@
+2025-04-23 16:05:15.414 [info] Extension host with pid 310067 started
+2025-04-23 16:05:15.430 [info] ExtensionService#_doActivateExtension FelixZeller.markdown-oxide, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-04-23 16:05:15.485 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-23 16:05:15.547 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-23 16:05:15.555 [info] ExtensionService#_doActivateExtension artlaman.chalice-icon-theme, startup: true, activationEvent: '*'
+2025-04-23 16:05:15.561 [info] ExtensionService#_doActivateExtension Tailscale.vscode-tailscale, startup: true, activationEvent: '*'
+2025-04-23 16:05:15.596 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 16:05:15.602 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 16:05:15.647 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 16:05:15.684 [info] ExtensionService#_doActivateExtension denoland.vscode-deno, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 16:05:15.796 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-23 16:05:15.831 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-23 16:05:15.924 [info] Eager extensions activated
+2025-04-23 16:05:15.941 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:15.942 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:15.958 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:15.959 [info] ExtensionService#_doActivateExtension franneck94.workspace-formatter, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:15.960 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:16.322 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:16.826 [info] ExtensionService#_doActivateExtension rhalaly.scope-to-this, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:16.826 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:16.829 [info] ExtensionService#_doActivateExtension sidp.strict-whitespace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:16.830 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:16.833 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 16:05:17.120 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-23 16:05:17.126 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+    at ql (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1368)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120764
+    at Array.forEach (<anonymous>)
+    at ib.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120670)
+    at vq.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12333)
+    at o9.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1602)
+    at ts (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:5828)
+    at MessagePortMain.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2284)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-04-23 16:05:17.127 [error] Canceled: Canceled
+    at ql (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1368)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120764
+    at Array.forEach (<anonymous>)
+    at ib.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120670)
+    at vq.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12333)
+    at o9.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1602)
+    at ts (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:5828)
+    at MessagePortMain.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2284)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-23 16:05:17.127 [error] Canceled: Canceled
+    at ql (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1368)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120764
+    at Array.forEach (<anonymous>)
+    at ib.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120670)
+    at vq.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12333)
+    at o9.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1602)
+    at ts (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:5828)
+    at MessagePortMain.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2284)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-23 16:05:17.127 [error] Canceled: Canceled
+    at ql (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1368)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120764
+    at Array.forEach (<anonymous>)
+    at ib.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120670)
+    at vq.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12333)
+    at o9.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1602)
+    at ts (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:5828)
+    at MessagePortMain.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2284)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-23 16:05:17.132 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at Object.deactivate (/home/egirlcatnip/.vscode/extensions/denoland.vscode-deno-3.43.6-universal/client/dist/main.js:22188:21)
+    at vq._deactivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:14504)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12015
+    at Array.map (<anonymous>)
+    at vq._deactivateAll (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12003)
+    at vq.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12356)
+    at o9.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1602)
+    at ts (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:5828)
+    at MessagePortMain.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2284)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-23 16:05:17.134 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.135 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.135 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.135 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.135 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.135 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.136 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.136 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at a5.set enabled [as enabled] (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:1381:5988)
+    at DG.value (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:1381:11372)
+    at nt._deliver (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:408:2934)
+    at nt._deliverQueue (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:408:3023)
+    at nt.fire (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:408:3357)
+    at U5._handleAuthChangeEvent (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:423:4952) setContext undefined
+2025-04-23 16:05:17.137 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.137 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.137 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.137 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.137 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.137 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.138 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._inspectContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59281) setContext undefined
+2025-04-23 16:05:17.138 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._updateQuotaExceededContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59498) setContext undefined
+2025-04-23 16:05:17.138 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._updatePreviewFeaturesDisabledContext (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:59905) setContext undefined
+2025-04-23 16:05:17.138 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at gT._updateBYOKEnabled (/home/egirlcatnip/.vscode/extensions/github.copilot-chat-0.26.6/dist/extension.js:480:60131) setContext undefined
+2025-04-23 16:05:17.908 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at j5.updateStatusBarIndicator (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:79:23)
+    at new CopilotStatusBar (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:38:14)
+    at registerStatusBar (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/extension.ts:93:34)
+    at activate (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/extension.ts:139:5)
+    at l0._activate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16238)
+    at l0._waitForDepsThenActivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16180)
+    at l0._initialize (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:15543) setContext undefined
+2025-04-23 16:05:17.908 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at j5.updateStatusBarIndicator (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:85:23)
+    at new CopilotStatusBar (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:38:14)
+    at registerStatusBar (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/extension.ts:93:34)
+    at activate (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/extension.ts:139:5)
+    at l0._activate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16238)
+    at l0._waitForDepsThenActivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16180)
+    at l0._initialize (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:15543) setContext undefined
+2025-04-23 16:05:17.909 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at j5.updateStatusBarIndicator (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:79:23)
+    at j5.didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:70:14)
+    at j5.#didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:66:14)
+    at j5.withProgress (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:25:49)
+    at activate (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/extension.ts:212:21)
+    at l0._activate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16238)
+    at l0._waitForDepsThenActivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16180)
+    at l0._initialize (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:15543) setContext undefined
+2025-04-23 16:05:17.909 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at j5.updateStatusBarIndicator (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:85:23)
+    at j5.didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:70:14)
+    at j5.#didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:66:14)
+    at j5.withProgress (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:25:49)
+    at activate (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/extension.ts:212:21)
+    at l0._activate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16238)
+    at l0._waitForDepsThenActivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:16180)
+    at l0._initialize (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:15543) setContext undefined
+2025-04-23 16:05:17.910 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at j5.updateStatusBarIndicator (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:79:23)
+    at j5.didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:70:14)
+    at j5.#didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:66:14)
+    at j5.forceStatus (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:37:14)
+    at j5.setWarning (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:51:14)
+    at /home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotTokenManager.ts:144:34
+    at T$.getToken (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotTokenManager.ts:154:16)
+    at T$.getToken (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/auth.ts:45:27) setContext undefined
+2025-04-23 16:05:17.910 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at j5.updateStatusBarIndicator (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:85:23)
+    at j5.didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:70:14)
+    at j5.#didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:66:14)
+    at j5.forceStatus (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:37:14)
+    at j5.setWarning (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:51:14)
+    at /home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotTokenManager.ts:144:34
+    at T$.getToken (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotTokenManager.ts:154:16)
+    at T$.getToken (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/auth.ts:45:27) setContext undefined
+2025-04-23 16:05:17.910 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at T$.getToken (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/auth.ts:50:27) setContext undefined
+2025-04-23 16:05:17.912 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at j5.updateStatusBarIndicator (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:79:23)
+    at j5.didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:70:14)
+    at j5.#didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:66:14)
+    at /home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:27:53
+    at <anonymous> setContext undefined
+2025-04-23 16:05:17.912 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at j5.updateStatusBarIndicator (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:85:23)
+    at j5.didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/extension/src/statusBar.ts:70:14)
+    at j5.#didChange (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:66:14)
+    at /home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/progress.ts:27:53
+    at <anonymous> setContext undefined
+2025-04-23 16:05:17.920 [error] Error: Pending response rejected since connection got disposed
+    at Object.dispose (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1167:27)
+    at Object.dispose (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-languageclient/lib/common/client.js:1586:35)
+    at LanguageClient.handleConnectionClosed (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-languageclient/lib/common/client.js:1155:34)
+    at LanguageClient.handleConnectionClosed (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-languageclient/lib/node/main.js:180:22)
+    at closeHandler (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-languageclient/lib/common/client.js:1142:18)
+    at CallbackList.invoke (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at Emitter.fire (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at closeHandler (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/connection.js:314:26)
+    at CallbackList.invoke (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at Emitter.fire (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at StreamMessageWriter.fireClose (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/messageWriter.js:42:27)
+    at Socket.<anonymous> (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/messageWriter.js:74:42)
+    at Socket.emit (node:events:518:28)
+    at Pipe.<anonymous> (node:net:343:12)
+2025-04-23 16:05:17.920 [info] Extension host with pid 310067 exiting with code 0

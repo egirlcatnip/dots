@@ -1,0 +1,48 @@
+2025-04-23 18:47:47.422 [info] Extension host with pid 3988 started
+2025-04-23 18:47:47.433 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 18:47:47.442 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 18:47:47.488 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 18:47:47.528 [info] ExtensionService#_doActivateExtension denoland.vscode-deno, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 18:47:47.560 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-23 18:47:47.764 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-23 18:47:47.765 [info] ExtensionService#_doActivateExtension artlaman.chalice-icon-theme, startup: true, activationEvent: '*'
+2025-04-23 18:47:47.770 [info] ExtensionService#_doActivateExtension Tailscale.vscode-tailscale, startup: true, activationEvent: '*'
+2025-04-23 18:47:47.810 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-23 18:47:47.842 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-23 18:47:47.908 [info] Eager extensions activated
+2025-04-23 18:47:47.917 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:47.919 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:47.933 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:47.934 [info] ExtensionService#_doActivateExtension franneck94.workspace-formatter, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:47.935 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:48.266 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:48.708 [info] ExtensionService#_doActivateExtension rhalaly.scope-to-this, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:48.710 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:48.722 [info] ExtensionService#_doActivateExtension sidp.strict-whitespace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:48.723 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:48.728 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 18:47:49.021 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-23 19:21:58.385 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-23 19:21:58.422 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at Object.deactivate (/home/egirlcatnip/.vscode/extensions/denoland.vscode-deno-3.43.6-universal/client/dist/main.js:22188:21)
+    at vq._deactivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:14504)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12015
+    at Array.map (<anonymous>)
+    at vq._deactivateAll (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12003)
+    at vq.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12356)
+    at o9.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1602)
+    at ts (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:5828)
+    at MessagePortMain.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2284)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-23 19:21:58.430 [info] Extension host with pid 3988 exiting with code 0

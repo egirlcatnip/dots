@@ -1,0 +1,584 @@
+2025-04-23 20:20:34.618 [info] Extension host with pid 4241 started
+2025-04-23 20:20:34.618 [info] Skipping acquiring lock for /home/egirlcatnip/.config/Visual Studio Code/User/workspaceStorage/d47fe243a6f5e068070e3f0a23cf2ede.
+2025-04-23 20:20:34.777 [info] ExtensionService#_doActivateExtension FelixZeller.markdown-oxide, startup: false, activationEvent: 'onLanguage:plaintext'
+2025-04-23 20:20:34.853 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-23 20:20:34.868 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2025-04-23 20:20:34.967 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 20:20:34.973 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 20:20:35.022 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 20:20:35.070 [info] ExtensionService#_doActivateExtension denoland.vscode-deno, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-23 20:20:35.395 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-23 20:20:35.397 [info] ExtensionService#_doActivateExtension artlaman.chalice-icon-theme, startup: true, activationEvent: '*'
+2025-04-23 20:20:35.404 [info] ExtensionService#_doActivateExtension Tailscale.vscode-tailscale, startup: true, activationEvent: '*'
+2025-04-23 20:20:35.487 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-23 20:20:35.530 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-23 20:20:35.621 [info] Eager extensions activated
+2025-04-23 20:20:35.645 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:35.647 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:35.663 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:35.665 [info] ExtensionService#_doActivateExtension franneck94.workspace-formatter, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:35.667 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:36.065 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:36.577 [info] ExtensionService#_doActivateExtension rhalaly.scope-to-this, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:36.580 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:36.585 [info] ExtensionService#_doActivateExtension sidp.strict-whitespace, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:36.587 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:36.593 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-04-23 20:20:37.027 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.534 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.536 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.536 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.537 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.537 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.537 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.537 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.537 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.537 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.538 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.538 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.538 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.538 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.539 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.539 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.539 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.539 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.539 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.540 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.540 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.540 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.540 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.540 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.540 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.541 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.541 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:38.541 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:00:54.683 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3697
+2025-04-23 21:01:00.828 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5979
+2025-04-23 21:01:12.232 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4324
+2025-04-23 21:01:27.660 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3578
+2025-04-23 21:01:28.036 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.036 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.037 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:28.068 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3578
+2025-04-23 21:01:29.038 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.038 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.039 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.039 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.039 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.039 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.040 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.040 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.040 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.040 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.040 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.041 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.041 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.041 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.041 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.041 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.041 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.042 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.042 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.042 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.042 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.042 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.043 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.043 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.043 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.043 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.043 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.043 [error] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:02:12.029 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3578
+2025-04-23 21:03:04.781 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3578
+2025-04-23 21:03:36.791 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3578
+2025-04-23 21:03:48.092 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3578
+2025-04-23 21:04:19.706 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3578
+2025-04-23 21:12:17.651 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-23 21:12:17.672 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at Th.L [as value] (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:511869)
+    at I._deliver (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2939)
+    at I._deliverQueue (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:3030)
+    at I.fire (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:3366)
+    at Object.g [as dispose] (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:534509)
+    at /usr/share/codium/resources/app/extensions/git/dist/main.js:2:540827
+    at Array.forEach (<anonymous>)
+    at b.dispose (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:540813)
+    at i1.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9946)
+    at i1.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:10042)
+    at i1.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:514353)
+    at i1.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:10042)
+    at gi (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:18394
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at vq._deactivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:14729)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12015
+    at Array.map (<anonymous>)
+    at vq._deactivateAll (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12003)
+    at vq.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12356)
+    at o9.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1602)
+    at ts (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:5828)
+    at MessagePortMain.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2284)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-23 21:12:17.674 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at t.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/usr/share/codium/resources/app/extensions/github/dist/extension.js:2:217754)
+    at /usr/share/codium/resources/app/extensions/github/dist/extension.js:2:218713
+    at Th.value (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:631748)
+    at I._deliver (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2939)
+    at I._deliverQueue (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:3030)
+    at I.fire (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:3366)
+    at Object.g [as dispose] (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:534509)
+    at /usr/share/codium/resources/app/extensions/git/dist/main.js:2:540827
+    at Array.forEach (<anonymous>)
+    at b.dispose (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:540813)
+    at i1.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:9946)
+    at i1.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:10042)
+    at i1.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:514353)
+    at i1.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:10042)
+    at gi (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:701)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:18394
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:25:1011
+    at Object.dispose (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:705)
+    at vq._deactivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:14729)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12015
+    at Array.map (<anonymous>)
+    at vq._deactivateAll (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12003)
+    at vq.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12356)
+    at o9.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1602)
+    at ts (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:5828)
+    at MessagePortMain.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2284)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-23 21:12:17.679 [error] Canceled: Canceled
+    at new UL (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118906)
+    at ib._remoteCall (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125201)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121960)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48509)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at r.registerCommand.description (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47212)
+    at v0._executeContributedCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:49078)
+    at v0._doExecuteCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:48081)
+    at v0.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:47948)
+    at Object.executeCommand (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:35173)
+    at Object.deactivate (/home/egirlcatnip/.vscode/extensions/denoland.vscode-deno-3.43.6-universal/client/dist/main.js:22188:21)
+    at vq._deactivate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:14504)
+    at file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12015
+    at Array.map (<anonymous>)
+    at vq._deactivateAll (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12003)
+    at vq.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:12356)
+    at o9.terminate (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1602)
+    at ts (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:5828)
+    at MessagePortMain.<anonymous> (file:///usr/share/codium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:197:2284)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2025-04-23 21:12:17.686 [error] Error: Pending response rejected since connection got disposed
+    at Object.dispose (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/connection.js:1167:27)
+    at Object.dispose (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-languageclient/lib/common/client.js:1586:35)
+    at LanguageClient.handleConnectionClosed (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-languageclient/lib/common/client.js:1155:34)
+    at LanguageClient.handleConnectionClosed (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-languageclient/lib/node/main.js:180:22)
+    at closeHandler (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-languageclient/lib/common/client.js:1142:18)
+    at CallbackList.invoke (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at Emitter.fire (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at closeHandler (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/connection.js:314:26)
+    at CallbackList.invoke (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at Emitter.fire (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at StreamMessageWriter.fireClose (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/messageWriter.js:42:27)
+    at Socket.<anonymous> (/home/egirlcatnip/.vscode/extensions/felixzeller.markdown-oxide-1.1.0/client/node_modules/vscode-jsonrpc/lib/common/messageWriter.js:74:42)
+    at Socket.emit (node:events:518:28)
+    at Pipe.<anonymous> (node:net:343:12)
+2025-04-23 21:12:17.686 [info] Extension host with pid 4241 exiting with code 0

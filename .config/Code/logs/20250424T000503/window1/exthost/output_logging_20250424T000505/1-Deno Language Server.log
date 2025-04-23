@@ -1,0 +1,9 @@
+Starting Deno language server...
+  version: 2.2.11 (release, x86_64-unknown-linux-gnu)
+  executable: /home/egirlcatnip/.cargo/bin/deno
+Connected to "Visual Studio Code" 1.99.3
+Enabling import suggestions for: https://deno.land
+Download https://deno.land/.well-known/deno-import-intellisense.json
+Hit the language server document preload limit of 1000 file system entries. You may want to use the "deno.enablePaths" configuration setting to only have Deno partially enable a workspace or increase the limit via "deno.documentPreloadLimit". In cases where Deno ends up using too much memory, you may want to lower the limit.
+Refreshing configuration tree...
+Server ready.

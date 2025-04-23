@@ -1,0 +1,11 @@
+[Warn  - 8:20:35 PM] Settings: Settings { dailynote: "%Y-%m-%d", new_file_folder_path: "", daily_notes_folder: "", heading_completions: true, title_headings: true, unresolved_diagnostics: true, semantic_tokens: true, tags_in_codeblocks: true, references_in_codeblocks: true, include_md_extension_md_link: false, include_md_extension_wikilink: false, hover: true, case_matching: Smart }
+[Error - 9:00:59 PM] VAULT Lock is good
+[Warn  - 9:00:59 PM] Vault Construction took 35ms
+[Warn  - 9:00:59 PM] Diagnostics Started
+[Warn  - 9:00:59 PM] Diagnostics Done
+[Warn  - 9:00:59 PM] Diagnostics Done took 0ms
+[Error - 9:12:17 PM] Server process exited with code 0.
+[Error - 9:12:17 PM] Connection to server got closed. Server will not be restarted.
+[Error - 9:12:17 PM] Stopping server failed
+  Message: Pending response rejected since connection got disposed
+  Code: -32097 

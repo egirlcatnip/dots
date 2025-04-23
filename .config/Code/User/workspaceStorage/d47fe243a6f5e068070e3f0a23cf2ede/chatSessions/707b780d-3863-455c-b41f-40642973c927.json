@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "requesterUsername": "egirlcatnip",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/26607304",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": [],
+  "sessionId": "707b780d-3863-455c-b41f-40642973c927",
+  "creationDate": 1745360014573,
+  "isImported": false,
+  "lastMessageDate": 1745360014573
+}

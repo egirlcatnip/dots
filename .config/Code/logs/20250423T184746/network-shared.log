@@ -1,0 +1,7 @@
+2025-04-23 18:47:47.223 [error] #1: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-04-23 18:52:47.871 [error] #2: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-04-23 18:57:47.875 [error] #3: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-04-23 19:02:47.878 [error] #4: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-04-23 19:07:47.881 [error] #5: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-04-23 19:12:47.885 [error] #6: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-04-23 19:17:47.891 [error] #7: https://raw.githubusercontent.com/EclipseFdn/publish-extensions/refs/heads/master/extension-control/extensions.json - error GET net::ERR_NAME_NOT_RESOLVED

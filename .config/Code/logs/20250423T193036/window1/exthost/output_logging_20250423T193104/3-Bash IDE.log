@@ -1,0 +1,23 @@
+[Warn  - 7:31:07 PM] 17:31:07.459 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 7:31:07 PM] 17:31:07.598 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/egirlcatnip/Repos/dotfiles"...
+[Info  - 7:31:07 PM] 17:31:07.643 INFO BackgroundAnalysis: Glob resolved with 3 files after 0.045 seconds
+[Info  - 7:31:07 PM] 17:31:07.656 INFO BackgroundAnalysis: Completed after 0.058 seconds.
+[Warn  - 7:31:08 PM] 17:31:08.106 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
+[Warn  - 7:31:23 PM] 17:31:23.363 WARNING ⛔️ Shfmt: disabling formatting as no executable was found at path 'shfmt'
+[Warn  - 7:36:23 PM] 17:36:23.171 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:36:25 PM] 17:36:25.789 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:50:40 PM] 17:50:40.946 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:41 PM] 17:54:41.708 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:45 PM] 17:54:45.005 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:45 PM] 17:54:45.106 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:52 PM] 17:54:52.362 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:53 PM] 17:54:53.147 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:53 PM] 17:54:53.663 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:56 PM] 17:54:56.371 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:56 PM] 17:54:56.628 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:58 PM] 17:54:58.300 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:58 PM] 17:54:58.781 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:59 PM] 17:54:59.689 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:54:59 PM] 17:54:59.725 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:55:00 PM] 17:55:00.068 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error
+[Warn  - 7:55:00 PM] 17:55:00.723 WARNING ⛔️ Error while parsing file:///home/egirlcatnip/Repos/dotfiles/setup.sh: syntax error

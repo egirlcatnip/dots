@@ -1,0 +1,102 @@
+2025-04-23 20:20:33.775 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 20:20:33.776 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 20:20:33.776 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 20:20:34.135 [info] Started local extension host with pid 4241.
+2025-04-23 20:20:34.422 [error] Extension 'github.copilot-chat' wants API proposal 'findFiles2@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 20:20:34.422 [error] Extension 'github.copilot-chat' wants API proposal 'defaultChatParticipant@3' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 20:20:34.422 [error] Extension 'github.copilot-chat' wants API proposal 'aiTextSearchProvider@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 20:20:34.422 [error] Extension 'github.copilot-chat' wants API proposal 'chatParticipantPrivate@6' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 20:20:34.456 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-04-23 20:20:36.884 [info] [perf] Render performance baseline is 17ms
+2025-04-23 20:20:37.534 [error] [Extension Host] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 20:20:37.674 [error] Error while getting the latest version for the extension artlaman.chalice-icon-theme. Unexpected HTTP response: 503
+2025-04-23 20:20:37.897 [error] Error while getting the latest version for the extension bierner.markdown-footnotes. Unexpected HTTP response: 503
+2025-04-23 20:20:37.897 [error] Error while getting the latest version for the extension bierner.markdown-emoji. Unexpected HTTP response: 503
+2025-04-23 20:20:37.898 [error] Error while getting the latest version for the extension bierner.github-markdown-preview. Unexpected HTTP response: 503
+2025-04-23 20:20:37.898 [error] Error while getting the latest version for the extension everlastengineering.debug-in-titlebar. Unexpected HTTP response: 503
+2025-04-23 20:20:37.898 [error] Error while getting the latest version for the extension bmw-cdc-team.asm-enable-debug. Unexpected HTTP response: 503
+2025-04-23 20:20:37.898 [error] Error while getting the latest version for the extension bierner.markdown-yaml-preamble. Unexpected HTTP response: 503
+2025-04-23 20:20:37.898 [error] Error while getting the latest version for the extension bierner.markdown-checkbox. Unexpected HTTP response: 503
+2025-04-23 20:20:37.903 [error] Error while getting the latest version for the extension charliermarsh.ruff. Unexpected HTTP response: 503
+2025-04-23 20:20:37.904 [error] Error while getting the latest version for the extension yoavbls.pretty-ts-errors. Unexpected HTTP response: 503
+2025-04-23 20:20:37.905 [error] Error while getting the latest version for the extension bierner.markdown-shiki. Unexpected HTTP response: 503
+2025-04-23 20:20:37.905 [error] Error while getting the latest version for the extension bierner.markdown-preview-github-styles. Unexpected HTTP response: 503
+2025-04-23 20:20:37.905 [error] Error while getting the latest version for the extension github.copilot. Unexpected HTTP response: 503
+2025-04-23 20:20:37.905 [error] Error while getting the latest version for the extension bierner.markdown-mermaid. Unexpected HTTP response: 503
+2025-04-23 20:20:37.905 [error] Error while getting the latest version for the extension github.remotehub. Unexpected HTTP response: 503
+2025-04-23 20:20:37.905 [error] Error while getting the latest version for the extension franneck94.workspace-formatter. Unexpected HTTP response: 503
+2025-04-23 20:20:37.906 [error] Error while getting the latest version for the extension fill-labs.dependi. Unexpected HTTP response: 503
+2025-04-23 20:20:38.157 [error] Error while getting the latest version for the extension felixzeller.markdown-oxide. Unexpected HTTP response: 503
+2025-04-23 20:20:38.191 [error] Error while getting the latest version for the extension ecmel.vscode-html-css. Unexpected HTTP response: 503
+2025-04-23 20:20:38.192 [error] Error while getting the latest version for the extension egirlcatnip.adwaita-github-theme. Unexpected HTTP response: 503
+2025-04-23 20:20:38.193 [error] Error while getting the latest version for the extension compilouit.xkb. Unexpected HTTP response: 503
+2025-04-23 20:20:38.194 [error] Error while getting the latest version for the extension denoland.vscode-deno. Unexpected HTTP response: 503
+2025-04-23 20:20:38.194 [error] Error while getting the latest version for the extension github.copilot-chat. Unexpected HTTP response: 503
+2025-04-23 20:20:38.194 [error] Error while getting the latest version for the extension ms-python.python. Unexpected HTTP response: 503
+2025-04-23 20:20:38.194 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Unexpected HTTP response: 503
+2025-04-23 20:20:38.194 [error] Error while getting the latest version for the extension tailscale.vscode-tailscale. Unexpected HTTP response: 503
+2025-04-23 20:20:38.195 [error] Error while getting the latest version for the extension skyapps.fish-vscode. Unexpected HTTP response: 503
+2025-04-23 20:20:38.195 [error] Error while getting the latest version for the extension sidp.strict-whitespace. Unexpected HTTP response: 503
+2025-04-23 20:20:38.195 [error] Error while getting the latest version for the extension ms-python.debugpy. Unexpected HTTP response: 503
+2025-04-23 20:20:38.195 [error] Error while getting the latest version for the extension mathematic.vscode-pdf. Unexpected HTTP response: 503
+2025-04-23 20:20:38.195 [error] Error while getting the latest version for the extension mads-hartmann.bash-ide-vscode. Unexpected HTTP response: 503
+2025-04-23 20:20:38.195 [error] Error while getting the latest version for the extension lunaryorn.fish-ide. Unexpected HTTP response: 503
+2025-04-23 20:20:38.196 [error] Error while getting the latest version for the extension github.vscode-github-actions. Unexpected HTTP response: 503
+2025-04-23 20:20:38.196 [error] Error while getting the latest version for the extension jnoortheen.xonsh. Unexpected HTTP response: 503
+2025-04-23 20:20:38.196 [error] Error while getting the latest version for the extension hideoo.toggler. Unexpected HTTP response: 503
+2025-04-23 20:20:38.196 [error] Error while getting the latest version for the extension llvm-vs-code-extensions.vscode-clangd. Unexpected HTTP response: 503
+2025-04-23 20:20:38.196 [error] Error while getting the latest version for the extension ph0enixkm.amber-language. Unexpected HTTP response: 503
+2025-04-23 20:20:38.196 [error] Error while getting the latest version for the extension ms-vscode.hexeditor. Unexpected HTTP response: 503
+2025-04-23 20:20:38.197 [error] Error while getting the latest version for the extension ms-vscode.remote-repositories. Unexpected HTTP response: 503
+2025-04-23 20:20:38.197 [error] Error while getting the latest version for the extension ms-vscode.remote-explorer. Unexpected HTTP response: 503
+2025-04-23 20:20:38.197 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-ssh-edit. Unexpected HTTP response: 503
+2025-04-23 20:20:38.197 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-ssh. Unexpected HTTP response: 503
+2025-04-23 20:20:38.420 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Unexpected HTTP response: 503
+2025-04-23 20:20:38.421 [error] Error while getting the latest version for the extension rioj7.command-variable. Unexpected HTTP response: 503
+2025-04-23 20:20:38.422 [error] Error while getting the latest version for the extension rhalaly.scope-to-this. Unexpected HTTP response: 503
+2025-04-23 20:20:38.422 [error] Error while getting the latest version for the extension redhat.vscode-yaml. Unexpected HTTP response: 503
+2025-04-23 20:20:38.422 [error] Error while getting the latest version for the extension redhat.vscode-xml. Unexpected HTTP response: 503
+2025-04-23 20:20:38.423 [error] Error while getting the latest version for the extension yy0931.save-as-root. Unexpected HTTP response: 503
+2025-04-23 20:20:38.423 [error] Error while getting the latest version for the extension washan.cargo-appraiser. Unexpected HTTP response: 503
+2025-04-23 20:20:38.423 [error] Error while getting the latest version for the extension vadimcn.vscode-lldb. Unexpected HTTP response: 503
+2025-04-23 20:20:38.423 [error] Error while getting the latest version for the extension usernamehw.errorlens. Unexpected HTTP response: 503
+2025-04-23 20:20:38.423 [error] Error while getting the latest version for the extension tamasfe.even-better-toml. Unexpected HTTP response: 503
+2025-04-23 20:20:38.537 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-23 20:50:09.640 [error] [Extension Host] [inlineCompletionItemProvider] provideInlineCompletionItems: FetchError: getaddrinfo EAI_AGAIN api.github.com
+    at fetch (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at c2.fetch (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/network/helix.ts:94:22)
+    at fetchCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotToken.ts:206:16)
+    at authFromGitHubToken (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotToken.ts:130:22)
+    at T$.fetchCopilotTokenEnvelope (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotTokenManager.ts:93:29) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'EAI_AGAIN',
+  errno: -3001,
+  erroredSysCall: 'getaddrinfo'
+}
+2025-04-23 20:50:09.641 [error] [Extension Host] [inlineCompletionItemProvider] provideInlineCompletionItems: FetchError: getaddrinfo EAI_AGAIN api.github.com
+    at fetch (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at c2.fetch (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/network/helix.ts:94:22)
+    at fetchCopilotToken (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotToken.ts:206:16)
+    at authFromGitHubToken (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotToken.ts:130:22)
+    at T$.fetchCopilotTokenEnvelope (/home/egirlcatnip/.vscode/extensions/github.copilot-1.303.0/lib/src/auth/copilotTokenManager.ts:93:29) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'EAI_AGAIN',
+  errno: -3001,
+  erroredSysCall: 'getaddrinfo'
+}
+2025-04-23 21:01:25.180 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-04-23 21:01:28.045 [error] [Extension Host] Error: Git error
+    at ChildProcess.<anonymous> (/usr/share/codium/resources/app/extensions/git/dist/main.js:2:597766)
+    at ChildProcess.emit (node:events:530:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-23 21:01:29.039 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-23 21:02:33.497 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

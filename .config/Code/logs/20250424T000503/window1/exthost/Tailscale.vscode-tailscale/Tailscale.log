@@ -1,0 +1,5 @@
+2025-04-24 00:05:07.389 [info] [tsrelay] url: http://127.0.0.1:41297
+2025-04-24 00:05:07.389 [info] websocket is open
+2025-04-24 00:05:07.389 [info] [tsrelay] initial ports are set
+2025-04-24 00:05:07.389 [info] [serve-status] Funnel is on
+2025-04-24 00:05:07.389 [info] [serve-status] HTTPS is on

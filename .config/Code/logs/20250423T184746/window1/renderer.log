@@ -1,0 +1,69 @@
+2025-04-23 18:47:46.738 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 18:47:46.738 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 18:47:46.738 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 18:47:46.954 [error] Error: The editor could not be opened because the file was not found.
+    at oCe.handleSetInputError (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:2153:138148)
+    at async oCe.setInput (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:2153:137160)
+    at async A5e.doSetInput (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:694:25986)
+    at async A5e.doOpenEditor (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:694:23744)
+    at async A5e.openEditor (vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:694:22671)
+    at async vscode-file://vscode-app/usr/share/codium/resources/app/out/vs/workbench/workbench.desktop.main.js:806:31613
+2025-04-23 18:47:46.990 [info] Started local extension host with pid 3988.
+2025-04-23 18:47:47.145 [error] Extension 'github.copilot-chat' wants API proposal 'findFiles2@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 18:47:47.146 [error] Extension 'github.copilot-chat' wants API proposal 'defaultChatParticipant@3' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 18:47:47.146 [error] Extension 'github.copilot-chat' wants API proposal 'aiTextSearchProvider@2' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 18:47:47.146 [error] Extension 'github.copilot-chat' wants API proposal 'chatParticipantPrivate@6' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-23 18:47:47.169 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-04-23 18:47:49.482 [error] Error while getting the latest version for the extension everlastengineering.debug-in-titlebar. Failed to fetch
+2025-04-23 18:47:49.483 [error] Error while getting the latest version for the extension bierner.markdown-emoji. Failed to fetch
+2025-04-23 18:47:49.483 [error] Error while getting the latest version for the extension felixzeller.markdown-oxide. Failed to fetch
+2025-04-23 18:47:49.483 [error] Error while getting the latest version for the extension github.remotehub. Failed to fetch
+2025-04-23 18:47:49.484 [error] Error while getting the latest version for the extension fill-labs.dependi. Failed to fetch
+2025-04-23 18:47:49.484 [error] Error while getting the latest version for the extension yoavbls.pretty-ts-errors. Failed to fetch
+2025-04-23 18:47:49.485 [error] Error while getting the latest version for the extension franneck94.workspace-formatter. Failed to fetch
+2025-04-23 18:47:49.485 [error] Error while getting the latest version for the extension artlaman.chalice-icon-theme. Failed to fetch
+2025-04-23 18:47:49.485 [error] Error while getting the latest version for the extension bierner.github-markdown-preview. Failed to fetch
+2025-04-23 18:47:49.486 [error] Error while getting the latest version for the extension bierner.markdown-footnotes. Failed to fetch
+2025-04-23 18:47:49.486 [error] Error while getting the latest version for the extension bierner.markdown-mermaid. Failed to fetch
+2025-04-23 18:47:49.486 [error] Error while getting the latest version for the extension bierner.markdown-preview-github-styles. Failed to fetch
+2025-04-23 18:47:49.487 [error] Error while getting the latest version for the extension bierner.markdown-checkbox. Failed to fetch
+2025-04-23 18:47:49.487 [error] Error while getting the latest version for the extension github.copilot. Failed to fetch
+2025-04-23 18:47:49.488 [error] Error while getting the latest version for the extension charliermarsh.ruff. Failed to fetch
+2025-04-23 18:47:49.488 [error] Error while getting the latest version for the extension bmw-cdc-team.asm-enable-debug. Failed to fetch
+2025-04-23 18:47:49.489 [error] Error while getting the latest version for the extension bierner.markdown-shiki. Failed to fetch
+2025-04-23 18:47:49.489 [error] Error while getting the latest version for the extension github.vscode-github-actions. Failed to fetch
+2025-04-23 18:47:49.490 [error] Error while getting the latest version for the extension bierner.markdown-yaml-preamble. Failed to fetch
+2025-04-23 18:47:49.490 [error] Error while getting the latest version for the extension github.copilot-chat. Failed to fetch
+2025-04-23 18:47:49.490 [error] Error while getting the latest version for the extension hideoo.toggler. Failed to fetch
+2025-04-23 18:47:49.491 [error] Error while getting the latest version for the extension llvm-vs-code-extensions.vscode-clangd. Failed to fetch
+2025-04-23 18:47:49.491 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-ssh. Failed to fetch
+2025-04-23 18:47:49.491 [error] Error while getting the latest version for the extension rhalaly.scope-to-this. Failed to fetch
+2025-04-23 18:47:49.492 [error] Error while getting the latest version for the extension lunaryorn.fish-ide. Failed to fetch
+2025-04-23 18:47:49.492 [error] Error while getting the latest version for the extension compilouit.xkb. Failed to fetch
+2025-04-23 18:47:49.492 [error] Error while getting the latest version for the extension jnoortheen.xonsh. Failed to fetch
+2025-04-23 18:47:49.492 [error] Error while getting the latest version for the extension rioj7.command-variable. Failed to fetch
+2025-04-23 18:47:49.493 [error] Error while getting the latest version for the extension mads-hartmann.bash-ide-vscode. Failed to fetch
+2025-04-23 18:47:49.493 [error] Error while getting the latest version for the extension mathematic.vscode-pdf. Failed to fetch
+2025-04-23 18:47:49.493 [error] Error while getting the latest version for the extension denoland.vscode-deno. Failed to fetch
+2025-04-23 18:47:49.493 [error] Error while getting the latest version for the extension ms-python.python. Failed to fetch
+2025-04-23 18:47:49.494 [error] Error while getting the latest version for the extension ms-python.debugpy. Failed to fetch
+2025-04-23 18:47:49.494 [error] Error while getting the latest version for the extension ms-vscode.hexeditor. Failed to fetch
+2025-04-23 18:47:49.494 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Failed to fetch
+2025-04-23 18:47:49.494 [error] Error while getting the latest version for the extension ms-vscode-remote.remote-ssh-edit. Failed to fetch
+2025-04-23 18:47:49.494 [error] Error while getting the latest version for the extension ph0enixkm.amber-language. Failed to fetch
+2025-04-23 18:47:49.495 [error] Error while getting the latest version for the extension ms-vscode.remote-explorer. Failed to fetch
+2025-04-23 18:47:49.495 [error] Error while getting the latest version for the extension ms-vscode.remote-repositories. Failed to fetch
+2025-04-23 18:47:49.495 [error] Error while getting the latest version for the extension redhat.vscode-xml. Failed to fetch
+2025-04-23 18:47:49.495 [error] Error while getting the latest version for the extension redhat.vscode-yaml. Failed to fetch
+2025-04-23 18:47:49.496 [error] Error while getting the latest version for the extension ecmel.vscode-html-css. Failed to fetch
+2025-04-23 18:47:49.496 [error] Error while getting the latest version for the extension egirlcatnip.adwaita-github-theme. Failed to fetch
+2025-04-23 18:47:49.496 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Failed to fetch
+2025-04-23 18:47:49.497 [error] Error while getting the latest version for the extension sidp.strict-whitespace. Failed to fetch
+2025-04-23 18:47:49.497 [error] Error while getting the latest version for the extension skyapps.fish-vscode. Failed to fetch
+2025-04-23 18:47:49.497 [error] Error while getting the latest version for the extension tailscale.vscode-tailscale. Failed to fetch
+2025-04-23 18:47:49.497 [error] Error while getting the latest version for the extension tamasfe.even-better-toml. Failed to fetch
+2025-04-23 18:47:49.497 [error] Error while getting the latest version for the extension usernamehw.errorlens. Failed to fetch
+2025-04-23 18:47:49.501 [error] Error while getting the latest version for the extension washan.cargo-appraiser. Failed to fetch
+2025-04-23 18:47:49.501 [error] Error while getting the latest version for the extension yy0931.save-as-root. Failed to fetch
+2025-04-23 18:47:49.501 [error] Error while getting the latest version for the extension vadimcn.vscode-lldb. Failed to fetch
+2025-04-23 18:47:49.688 [info] [perf] Render performance baseline is 15ms

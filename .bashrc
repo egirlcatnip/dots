@@ -74,6 +74,7 @@ configure_non_interactive_shell() { :; }
 # Add paths if directories exist
 if_exists_add_path "$HOME/.cargo/bin"
 if_exists_add_path "$HOME/.deno/bin"
+if_exists_add_path "$HOME/.local/bin"
 
 # Aliases
 alias gcc="gcc -Wall -Wpedantic -Wextra -Wno-deprecated-declarations -x c"

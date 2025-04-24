@@ -1,4 +1,3 @@
-#!/usr/bin/env fish
 # @egirlcatnip
 
 # Set XDG directories
@@ -66,11 +65,10 @@ end
 
 # Configure interactive shell
 function configure_interactive_shell
-    if test -n "$PS1"
-        install_dependencies
-        initialize_starship
-        initialize_zoxide
-    end
+    install_dependencies
+    initialize_starship
+    initialize_zoxide
+
 end
 
 # Non-interactive shell (no config needed)
@@ -88,7 +86,7 @@ alias gcc="gcc -Wall -Wpedantic -Wextra -Wno-deprecated-declarations -x c"
 alias g++="g++ -Wall -Wpedantic -Wextra -Wno-deprecated-declarations -x c++"
 
 # Check if interactive shell
-if test -n "$PS1"
+if status --is-interactive
     set fish_greeting
     configure_interactive_shell
     set_editor

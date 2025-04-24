@@ -12,4 +12,5 @@ sudo dnf install -y \
   gh \
   pip \
   tealdeer \
-  topgrade
+  topgrade \
+  git-lfs

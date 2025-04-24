@@ -85,9 +85,11 @@ if_exists_add_path "$HOME/.local/bin"
 alias gcc="gcc -Wall -Wpedantic -Wextra -Wno-deprecated-declarations -x c"
 alias g++="g++ -Wall -Wpedantic -Wextra -Wno-deprecated-declarations -x c++"
 
+# Variables
+set fish_greeting
+
 # Check if interactive shell
 if status --is-interactive
-    set fish_greeting
     configure_interactive_shell
     set_editor
 else

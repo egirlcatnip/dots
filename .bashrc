@@ -80,6 +80,9 @@ if_exists_add_path "$HOME/.local/bin"
 alias gcc="gcc -Wall -Wpedantic -Wextra -Wno-deprecated-declarations -x c"
 alias g++="g++ -Wall -Wpedantic -Wextra -Wno-deprecated-declarations -x c++"
 
+# Variables
+export SSH_AUTH_SOCK="/home/${USER}/.var/app/com.bitwarden.desktop/data/.bitwarden-ssh-agent.sock"
+
 # Check if interactive shell
 if [ -n "$PS1" ]; then
   configure_interactive_shell

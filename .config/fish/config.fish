@@ -87,6 +87,7 @@ alias g++="g++ -Wall -Wpedantic -Wextra -Wno-deprecated-declarations -x c++"
 
 # Variables
 set fish_greeting
+set SYSTEMD_PAGER cat
 
 # Check if interactive shell
 if status --is-interactive

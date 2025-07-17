@@ -1,0 +1,104 @@
+{
+  "$help": "https://aka.ms/terminal-documentation",
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "copyFormatting": "none",
+  "copyOnSelect": false,
+  "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+  "newTabMenu": [
+    {
+      "type": "remainingProfiles"
+    }
+  ],
+  "tabSwitcherMode": "disabled",
+  "profiles": {
+    "defaults": {
+      "opacity": 0,
+      "colorScheme": {
+        "dark": "Gnome Adwaita Dark",
+        "light": "Gnome Adwaita Light"
+      }
+    },
+    "list": [
+      {
+        "name": "PowerShell",
+        "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -NoLogo",
+        "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+        "hidden": false
+      },
+      {
+        "name": "Command Prompt",
+        "commandline": "%SystemRoot%\\System32\\cmd.exe",
+        "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+        "hidden": true
+      }
+    ]
+  },
+  "schemes": [
+    {
+      "name": "Gnome Adwaita Dark",
+      "foreground": "#e6edf3",
+      "background": "#000000",
+      "cursorColor": "#b1bac4",
+      "selectionBackground": "#3e4451",
+      "black": "#161821",
+      "red": "#ff7b72",
+      "green": "#3fb950",
+      "yellow": "#d29922",
+      "blue": "#58a6ff",
+      "purple": "#bc8cff",
+      "cyan": "#39c5cf",
+      "white": "#b1bac4",
+      "brightBlack": "#6e7681",
+      "brightRed": "#ffa198",
+      "brightGreen": "#56d364",
+      "brightYellow": "#e3b341",
+      "brightBlue": "#79c0ff",
+      "brightPurple": "#d2a8ff",
+      "brightCyan": "#56d4dd",
+      "brightWhite": "#ffffff"
+    },
+    {
+      "name": "Gnome Adwaita Light",
+      "foreground": "#4d545e",
+      "background": "#ffffff",
+      "cursorColor": "#4d545e",
+      "selectionBackground": "#e0e5e9",
+      "black": "#e0e5e9",
+      "red": "#ff7b72",
+      "green": "#3fb950",
+      "yellow": "#d29922",
+      "blue": "#58a6ff",
+      "purple": "#bc8cff",
+      "cyan": "#39c5cf",
+      "white": "#4d545e",
+      "brightBlack": "#b3bcc7",
+      "brightRed": "#ff8b80",
+      "brightGreen": "#56d364",
+      "brightYellow": "#e3b341",
+      "brightBlue": "#79c0ff",
+      "brightPurple": "#d2a8ff",
+      "brightCyan": "#56d4dd",
+      "brightWhite": "#2e333b"
+    }
+  ],
+  "theme": "Mica",
+  "themes": [
+    {
+      "name": "Mica",
+      "window": {
+        "useMica": true,
+        "applicationTheme": "system"
+      },
+      "tab": {
+        "showCloseButton": "hover",
+        "background": "#00000032",
+        "unfocusedBackground": "#00000000",
+        "iconStyle": "default"
+      },
+      "tabRow": {
+        "background": null,
+        "unfocusedBackground": null
+      }
+    }
+  ]
+}

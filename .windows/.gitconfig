@@ -1,0 +1,11 @@
+[safe]
+	directory = /*
+[credential "https://github.com"]
+	helper =
+	helper = !'C:\\Program Files\\GitHub CLI\\gh.exe' auth git-credential
+[credential "https://gist.github.com"]
+	helper =
+	helper = !'C:\\Program Files\\GitHub CLI\\gh.exe' auth git-credential
+[user]
+	name = egirlcatnip
+	gmail = egirlcatnip@gmail.com

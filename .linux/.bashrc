@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
-# /etc/bash.bashrc
+# .bashrc
 # @egirlcatnip
 
 # Set XDG directories
+export XDG_HOME="${HOME}"
 export XDG_CONFIG_HOME="${HOME}/.config"
 export XDG_DATA_HOME="${HOME}/.local/share"
 export XDG_STATE_HOME="${HOME}/.local/state"
@@ -29,12 +30,6 @@ configure_interactive_shell() {
   }
 }
 
-configure_non_interactive_shell() {
-  :;
-}
-
 if [ -n "$PS1" ]; then
   configure_interactive_shell
-else
-  configure_non_interactive_shell
 fi

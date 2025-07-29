@@ -9,17 +9,19 @@ $env.xdg_data_home = $env.xdg_home | path join ".local/share"
 $env.xdg_state_home = $env.xdg_home | path join ".local/state"
 
 # Native prompt
-def create_right_prompt [] {
-    let user = whoami
+$env.PROMPT_COMMAND = { ||
+    let user = $env.USER
     let hostname = hostname
-    let cwd = $env.PWD | path basename
 
-    return "{user}@{hostname} | nush\n{cwd}"
-}
+    let dir = match (do -i { $env.PWD | path relative-to $nu.home-path }) {
+            null => $env.PWD
+            '' => '~'
+            $relative_pwd => ([~ $relative_pwd] | path join)
+    }
 
-def create_left_prompt [] {
-    return
+    return $"($user)@($hostname) | nush\n(ansi light_blue)($dir)\n(ansi light_green)$(ansi reset) "
 }
+$env.PROMPT_COMMAND_RIGHT = { || }
 
 def initialize_starship [] {
     mkdir ($nu.data-dir | path join "vendor/autoload")
@@ -33,9 +35,15 @@ def initialize_zoxide [] {
 
 # Variables
 $env.config.show_banner = false
-
+$env.EDITOR = "micro"
 
 if $nu.is-interactive {
     initialize_starship
-    initialize_zoxide
+    # initialize_zoxide
+}
+
+if ($env.TERMUX_VERSION | is-not-empty) {
+        $env.USER = "emi"
+} else {
+        $env.USER = whoami
 }

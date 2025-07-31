@@ -5,8 +5,8 @@
 # Set XDG directories
 $env.xdg_home = "~" | path expand
 $env.xdg_config_home = $env.xdg_home | path join ".config"
-$env.xdg_data_home = $env.xdg_home | path join ".local/share"
-$env.xdg_state_home = $env.xdg_home | path join ".local/state"
+$env.xdg_data_home = $env.xdg_home | path join [".local/", "share"]
+$env.xdg_state_home = $env.xdg_home | path join [".local/", "state"]
 
 if ($env.TERMUX_VERSION? | is-not-empty) {
   $env.USER = "emi"
@@ -34,8 +34,7 @@ $env.PROMPT_COMMAND = { ||
 }
 
 $env.PROMPT_INDICATOR = ""
-
-$env.PROMPT_COMMAND_RIGHT = { || }
+$env.PROMPT_COMMAND_RIGHT = ""
 
 def initialize_starship [] {
   mkdir ($nu.data-dir | path join "vendor/autoload")
@@ -49,6 +48,15 @@ def initialize_zoxide [] {
 
 # Variables
 $env.config.show_banner = false
+$env.config.rm.always_trash = true
+$env.config.footer_mode = "auto"
+$env.config.table.trim.methodology = "wrapping"
+$env.config.table.trim.wrapping_try_keep_words = true
+$env.config.filesize.unit = 'binary'
+$env.config.highlight_resolved_externals = true
+$env.config.color_config.shape_internalcall = "light_yellow_bold"
+$env.config.history.file_format = "sqlite"
+
 $env.EDITOR = "code"
 
 if $nu.is-interactive {

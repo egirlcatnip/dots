@@ -9,7 +9,7 @@
 		},
 		{
 			"type": "separator",
-			"length": 32
+			"times": 32
 		},
 		{
 			"type": "host",
@@ -23,7 +23,7 @@
 		},
 		{
 			"type": "separator",
-			"length": 32
+			"times": 32
 		},
 		{
 			"type": "cpu",
@@ -37,7 +37,7 @@
 		},
 		{
 			"type": "separator",
-			"length": 32
+			"times": 32
 		},
 		{
 			"type": "colors",

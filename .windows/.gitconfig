@@ -1,11 +1,15 @@
-[safe]
-	directory = /*
-[credential "https://github.com"]
-	helper =
-	helper = !'C:\\Program Files\\GitHub CLI\\gh.exe' auth git-credential
-[credential "https://gist.github.com"]
-	helper =
-	helper = !'C:\\Program Files\\GitHub CLI\\gh.exe' auth git-credential
 [user]
 	name = egirlcatnip
-	gmail = egirlcatnip@gmail.com
+	email = egirlcatnip@gmail.com
+	signingkey = C:\\Users\\emi\\.ssh/id_ed25519.pub
+[init]
+	defaultBranch = main
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[gpg]
+    format = ssh
+[commit]
+	gpgSign = true

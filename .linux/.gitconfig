@@ -1,0 +1,15 @@
+[user]
+	name = egirlcatnip
+	email = egirlcatnip@gmail.com
+	signingkey = /home/emi/.ssh/id_ed25519.pub
+[init]
+	defaultBranch = main
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[gpg]
+    format = ssh
+[commit]
+	gpgSign = true
